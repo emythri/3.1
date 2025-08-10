@@ -1,0 +1,27 @@
+Experiment 1: Reading Images
+Experiment 2: Placing Logo on Image
+Experiment 3: Reading video from Webcam
+Experiment 4: Placing Logo on Webcam
+Experiment 5: Running mp4 video through OpenCV
+Experiment 6: Resizing using OpenCV
+Experiment 7: Live Video Capture using IP Webcam
+Experiment 8: Image Rotation
+Experiment 9: Image Transformations and Flipping
+Experiment 10: Image Gray scaling
+Experiment 11: Increase Brightness without using OpenCV
+Experiment 12: Changing Contrast of an Image
+Experiment 13: Binary Representation
+Experiment 14: BGR to HSV
+Experiment 15: Tracking using Color in HSV Domain
+Experiment 16: Convolution using filter2D : Negative values allowed
+Experiment 17: Fourier Transform
+Experiment 18: DFT of two sinusoids
+Experiment 19: 2d DFT of two dimensional sinusoids
+Experiment 20: Verifying Convolution in time domain is multiplication in frequency domain
+Experiment 21: Low Pass Filtering of 1D Signals
+Experiment 22: Record sound in python
+Experiment 23: Low pass and High pass filtering of real audio file
+Experiment 24: Morphological Operations
+
+
+
